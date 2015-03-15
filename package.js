@@ -4,7 +4,7 @@ var reactVersion = '0.13.0';
 Package.describe({
   name: 'respondly:react',
   version: reactVersion,
-  summary: 'The React client-side library.'
+  summary: 'The core React JS library.'
 });
 
 
