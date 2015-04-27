@@ -15,3 +15,10 @@ Package.onUse(function (api) {
   api.addFiles('shared/react.js', ['client', 'server']);
 
 });
+
+Package.onTest(function(api){
+
+  // Generated with: github.com/philcockfield/meteor-package-paths
+  
+
+});
